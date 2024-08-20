@@ -25,7 +25,6 @@ Metafar es una aplicación móvil desarrollada con React Native y Expo. La aplic
    ```bash
    npm install
    ```
-   ```
 
 3. Instala las herramientas de línea de comandos de Expo:
    ```bash
