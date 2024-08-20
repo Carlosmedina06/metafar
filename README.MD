@@ -12,8 +12,6 @@ Metafar es una aplicación móvil desarrollada con React Native y Expo. La aplic
 - [Dependencias](#dependencias)
 - [Scripts](#scripts)
 - [Desarrollo](#desarrollo)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Instalación
 
@@ -27,9 +25,6 @@ Metafar es una aplicación móvil desarrollada con React Native y Expo. La aplic
    ```bash
    npm install
    ```
-   o
-   ```bash
-   yarn install
    ```
 
 3. Instala las herramientas de línea de comandos de Expo:
@@ -85,7 +80,6 @@ Este proyecto utiliza las siguientes dependencias clave:
 
 Este proyecto utiliza **TypeScript** para un desarrollo más seguro y predecible. Se recomienda utilizar **ESLint** y **Prettier** para mantener un código limpio y consistente.
 
-Para verificar el código antes de realizar un commit:
 
 
 
