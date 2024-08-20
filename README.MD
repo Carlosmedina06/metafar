@@ -19,7 +19,7 @@ Metafar es una aplicación móvil desarrollada con React Native y Expo. La aplic
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/metafar.git
+   git clone https://github.com/Carlosmedina06/metafar
    cd metafar
    ```
 
